@@ -1,0 +1,2 @@
+# Scrapy_Crawls_Projects
+这里保存所有用scrapy框架的爬虫项目，包括智联招聘的爬虫，应届生求职网等网站的爬虫项目
